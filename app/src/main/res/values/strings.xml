@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Dew Store Page</string>
+    <string name="name_product">Asus ROG Strix G512LU</string>
+    <string name="Display">15.6\'\' LED FHD LCD ComfyView In-plane Switching (IPS) Technology, 1920 x 1080, Refresh Rate 144 Hz</string>
+    <string name="resolusi">FHD 1920 x 1080</string>
+    <string name="tipeprocessor">Intel Core i7-10300H</string>
+    <string name="detailprocessor">12M Cache, up to 5.00 GHz</string>
+    <string name="memori"> 8 GB DDR4 3200MHz SDRAM, SO-DIMM socket for expansion, up to 32 GB SDRAM, Dual-channel</string>
+    <string name="penyimpanan">512GB SSD M.2 PCIe</string>
+    <string name="text_callpenjual">Hubungi CS</string>
+    <string name="pesanan_terbeli">Produk telah berhasil dibeli..</string>
+</resources>
